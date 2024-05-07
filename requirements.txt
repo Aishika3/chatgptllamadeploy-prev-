@@ -1,0 +1,6 @@
+wget
+streamlit
+llama_index
+langchain
+cohere
+llama-cpp-python
